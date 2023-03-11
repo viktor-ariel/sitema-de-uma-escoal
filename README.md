@@ -1,6 +1,6 @@
 <h1>SISTEMA DE UMA ESCOLA - Java 🧮</h1>
 
-<h2>Sistema de uma escola feito em JAVA feita em JAVA e JFrame</h2>
+<h2>Sistema de uma escola feito em JAVA, JFrame, MySQL.</h2>
 
 
 <img alt="Foto do codigo imc" src="./images/image2.jpg">
